@@ -1,0 +1,980 @@
+{:	data{	I"/:ET{:default{	:	lastI"å	<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>sqips rs</title>
+    <link rel="stylesheet" type="text/css" href="/style.css" media="screen">
+    <meta name="generator" content="nanoc 3.2.4">
+  </head>
+  <body>
+  
+      
+  		<header>
+  		 <div id="marquee">	
+  		  <div id="logo"><h1><a href="/">sqips rs</a></h1></div>
+  			<nav id="head">			
+  				<ul>
+  					<li><a href="/">Home</a></li>
+            <li><a href="/about/">About</a></li>		
+            <li><a href="/resources/">Portfolio</a></li>
+            <li><a href="/resources/">Contact</a></li>            
+            <li><a href="https://twitter.com/#!/sqips">Twitter</a></li>
+  				</ul>
+  			</nav>
+  		 </div>
+  		</header>
+  	<div id="container">
+  		<div id="main">
+  			<h1 id="a-first-level-header">A First Level Header</h1>
+
+<p>Now is the time for all good men to come to
+the aid of their country. This is just a
+regular kind of paragraph. Now is the time for all good men to come to
+the aid of their country. This is just a
+regular kind of paragraph. Now is the time for all good men to come to
+the aid of their country. This is just a
+regular kind of paragraph.</p>
+
+<p>The quick brown fox jumped over the lazy
+dogâ€™s back.</p>
+
+<h3 id="header-3">Header 3</h3>
+
+<h2 id="a-second-level-header">A Second Level Header</h2>
+
+<p>Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.</p>
+
+<p>The quick brown fox jumped over the lazy
+dogâ€™s back.</p>
+
+<h3 id="header-3-1">Header 3</h3>
+
+<blockquote>
+  <p>This is a blockquote.</p>
+
+  <p>This is the second paragraph in the blockquote.</p>
+
+  <h2 id="this-is-an-h2-in-a-blockquote">This is an H2 in a blockquote</h2>
+</blockquote>
+
+<p>The quick brown fox jumped over the lazy
+dogâ€™s back.</p>
+
+<h3 id="header-3-2">Header 3</h3>
+
+<h2 id="a-second-level-header-1">A Second Level Header</h2>
+
+<p>Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.</p>
+
+<p>The quick brown fox jumped over the lazy
+dogâ€™s back.</p>
+
+<h3 id="header-3-3">Header 3</h3>
+
+<blockquote>
+  <p>This is a blockquote.</p>
+
+  <p>This is the second paragraph in the blockquote.</p>
+
+  <h2 id="this-is-an-h2-in-a-blockquote-1">This is an H2 in a blockquote</h2>
+</blockquote>
+	
+  
+  			
+  
+  		</div>
+  		<div id="sidebar">
+  		  <section id="chunk">
+      	</section>
+  		  		
+  		</div>
+  	</div>
+  		<footer>
+  	    <nav id="foot"><ul><li>1</li><li>3</li><li>5</li></ul></nav>
+  		</footer>
+  
+  </body>
+</html>
+;T:rawI"œA First Level Header
+====================
+
+Now is the time for all good men to come to
+the aid of their country. This is just a
+regular kind of paragraph. Now is the time for all good men to come to
+the aid of their country. This is just a
+regular kind of paragraph. Now is the time for all good men to come to
+the aid of their country. This is just a
+regular kind of paragraph.
+
+The quick brown fox jumped over the lazy
+dog's back.
+
+### Header 3
+
+A Second Level Header
+---------------------
+
+Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.
+
+The quick brown fox jumped over the lazy
+dog's back.
+
+### Header 3
+
+> This is a blockquote.
+> 
+> This is the second paragraph in the blockquote.
+>
+> ## This is an H2 in a blockquote
+
+The quick brown fox jumped over the lazy
+dog's back.
+
+### Header 3
+
+A Second Level Header
+---------------------
+
+Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.
+
+The quick brown fox jumped over the lazy
+dog's back.
+
+### Header 3
+
+> This is a blockquote.
+> 
+> This is the second paragraph in the blockquote.
+>
+> ## This is an H2 in a blockquote;T:preI"ô<h1 id="a-first-level-header">A First Level Header</h1>
+
+<p>Now is the time for all good men to come to
+the aid of their country. This is just a
+regular kind of paragraph. Now is the time for all good men to come to
+the aid of their country. This is just a
+regular kind of paragraph. Now is the time for all good men to come to
+the aid of their country. This is just a
+regular kind of paragraph.</p>
+
+<p>The quick brown fox jumped over the lazy
+dogâ€™s back.</p>
+
+<h3 id="header-3">Header 3</h3>
+
+<h2 id="a-second-level-header">A Second Level Header</h2>
+
+<p>Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.</p>
+
+<p>The quick brown fox jumped over the lazy
+dogâ€™s back.</p>
+
+<h3 id="header-3-1">Header 3</h3>
+
+<blockquote>
+  <p>This is a blockquote.</p>
+
+  <p>This is the second paragraph in the blockquote.</p>
+
+  <h2 id="this-is-an-h2-in-a-blockquote">This is an H2 in a blockquote</h2>
+</blockquote>
+
+<p>The quick brown fox jumped over the lazy
+dogâ€™s back.</p>
+
+<h3 id="header-3-2">Header 3</h3>
+
+<h2 id="a-second-level-header-1">A Second Level Header</h2>
+
+<p>Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.</p>
+
+<p>The quick brown fox jumped over the lazy
+dogâ€™s back.</p>
+
+<h3 id="header-3-3">Header 3</h3>
+
+<blockquote>
+  <p>This is a blockquote.</p>
+
+  <p>This is the second paragraph in the blockquote.</p>
+
+  <h2 id="this-is-an-h2-in-a-blockquote-1">This is an H2 in a blockquote</h2>
+</blockquote>
+;T:	post@
+I"/stylesheet/;T{;{;I"ñ)/*! normalize.css 2012-01-17T16:33 UTC - http://github.com/necolas/normalize.css */
+
+/* =============================================================================
+HTML5 display definitions
+========================================================================== */
+
+/*
+* Corrects block display not defined in IE6/7/8/9 & FF3
+*/
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section {
+    display: block;
+}
+
+/*
+* Corrects inline-block display not defined in IE6/7/8/9 & FF3
+*/
+
+audio,
+canvas,
+video {
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+}
+
+/*
+* Prevents modern browsers from displaying 'audio' without controls
+*/
+
+audio:not([controls]) {
+    display: none;
+}
+
+/*
+* Addresses styling for 'hidden' attribute not present in IE7/8/9, FF3, S4
+* Known issue: no IE6 support
+*/
+
+[hidden] {
+    display: none;
+}
+
+
+/* =============================================================================
+Base
+========================================================================== */
+
+/*
+* 1. Corrects text resizing oddly in IE6/7 when body font-size is set using em units
+* http://clagnut.com/blog/348/#c790
+* 2. Keeps page centred in all browsers regardless of content height
+* 3. Prevents iOS text size adjust after orientation change, without disabling user zoom
+* www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/
+*/
+
+html {
+    font-size: 100%; /* 1 */
+    overflow-y: scroll; /* 2 */
+    -webkit-text-size-adjust: 100%; /* 3 */
+    -ms-text-size-adjust: 100%; /* 3 */
+}
+
+/*
+* Addresses margins handled incorrectly in IE6/7
+*/
+
+body {
+    margin: 0;
+}
+
+/*
+* Addresses font-family inconsistency between 'textarea' and other form elements.
+*/
+
+body,
+button,
+input,
+select,
+textarea {
+    font-family: sans-serif;
+}
+
+
+/* =============================================================================
+Links
+========================================================================== */
+
+/*
+* Addresses outline displayed oddly in Chrome
+*/
+
+a:focus {
+    outline: thin dotted;
+}
+
+/*
+* Improves readability when focused and also mouse hovered in all browsers
+* people.opera.com/patrickl/experiments/keyboard/test
+*/
+
+a:hover,
+a:active {
+    outline: 0;
+}
+
+
+/* =============================================================================
+Typography
+========================================================================== */
+
+/*
+* Neutralise smaller font-size in 'section' and 'article' in FF4+, Chrome, S5
+*/
+
+h1 {
+    font-size: 2em;
+}
+
+/*
+* Addresses styling not present in IE7/8/9, S5, Chrome
+*/
+
+abbr[title] {
+    border-bottom: 1px dotted;
+}
+
+/*
+* Addresses style set to 'bolder' in FF3+, S4/5, Chrome
+*/
+
+b,
+strong {
+    font-weight: bold;
+}
+
+blockquote {
+    margin: 1em 40px;
+}
+
+/*
+* Addresses styling not present in S5, Chrome
+*/
+
+dfn {
+    font-style: italic;
+}
+
+/*
+* Addresses styling not present in IE6/7/8/9
+*/
+
+mark {
+    background: #ff0;
+    color: #000;
+}
+
+/*
+* Corrects font family set oddly in IE6, S4/5, Chrome
+* en.wikipedia.org/wiki/User:Davidgothberg/Test59
+*/
+
+pre,
+code,
+kbd,
+samp {
+    font-family: monospace, serif;
+    _font-family: 'courier new', monospace;
+    font-size: 1em;
+}
+
+/*
+* Improves readability of pre-formatted text in all browsers
+*/
+
+pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+/*
+* 1. Addresses CSS quotes not supported in IE6/7
+* 2. Addresses quote property not supported in S4
+*/
+
+/* 1 */
+
+q {
+    quotes: none;
+}
+
+/* 2 */
+
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+small {
+    font-size: 75%;
+}
+
+/*
+* Prevents sub and sup affecting line-height in all browsers
+* gist.github.com/413930
+*/
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+
+/* =============================================================================
+Lists
+========================================================================== */
+
+ul,
+ol {
+    margin-left: 0;
+    padding: 0 0 0 0;
+}
+
+dd {
+    margin: 0 0 0 0;
+}
+
+nav ul,
+nav ol {
+    list-style: none;
+    list-style-image: none;
+}
+
+
+/* =============================================================================
+Embedded content
+========================================================================== */
+
+/*
+* 1. Removes border when inside 'a' element in IE6/7/8/9, FF3
+* 2. Improves image quality when scaled in IE7
+* code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/
+*/
+
+img {
+    border: 0; /* 1 */
+    -ms-interpolation-mode: bicubic; /* 2 */
+}
+
+/*
+* Corrects overflow displayed oddly in IE9
+*/
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+
+/* =============================================================================
+Figures
+========================================================================== */
+
+/*
+* Addresses margin not present in IE6/7/8/9, S5, O11
+*/
+
+figure {
+    margin: 0;
+}
+
+
+/* =============================================================================
+Forms
+========================================================================== */
+
+/*
+* Corrects margin displayed oddly in IE6/7
+*/
+
+form {
+    margin: 0;
+}
+
+/*
+* Define consistent border, margin, and padding
+*/
+
+fieldset {
+    border: 1px solid #c0c0c0;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+}
+
+/*
+* 1. Corrects color not being inherited in IE6/7/8/9
+* 2. Corrects text not wrapping in FF3
+* 3. Corrects alignment displayed oddly in IE6/7
+*/
+
+legend {
+    border: 0; /* 1 */
+    padding: 0;
+    white-space: normal; /* 2 */
+    *margin-left: -7px; /* 3 */
+}
+
+/*
+* 1. Corrects font size not being inherited in all browsers
+* 2. Addresses margins set differently in IE6/7, FF3+, S5, Chrome
+* 3. Improves appearance and consistency in all browsers
+*/
+
+button,
+input,
+select,
+textarea {
+    font-size: 100%; /* 1 */
+    margin: 0; /* 2 */
+    vertical-align: baseline; /* 3 */
+    *vertical-align: middle; /* 3 */
+}
+
+/*
+* Addresses FF3/4 setting line-height on 'input' using !important in the UA stylesheet
+*/
+
+button,
+input {
+    line-height: normal; /* 1 */
+}
+
+/*
+* 1. Improves usability and consistency of cursor style between image-type 'input' and others
+* 2. Corrects inability to style clickable 'input' types in iOS
+* 3. Removes inner spacing in IE7 without affecting normal text inputs
+* Known issue: inner spacing remains in IE6
+*/
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    cursor: pointer; /* 1 */
+    -webkit-appearance: button; /* 2 */
+    *overflow: visible; /* 3 */
+}
+
+/*
+* 1. Addresses box sizing set to content-box in IE8/9
+* 2. Removes excess padding in IE8/9
+* 3. Removes excess padding in IE7
+Known issue: excess padding remains in IE6
+*/
+
+input[type="checkbox"],
+input[type="radio"] {
+    box-sizing: border-box; /* 1 */
+    padding: 0; /* 2 */
+    *height: 13px; /* 3 */
+    *width: 13px; /* 3 */
+}
+
+/*
+* 1. Addresses appearance set to searchfield in S5, Chrome
+* 2. Addresses box-sizing set to border-box in S5, Chrome (include -moz to future-proof)
+*/
+
+input[type="search"] {
+    -webkit-appearance: textfield; /* 1 */
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box; /* 2 */
+    box-sizing: content-box;
+}
+
+/*
+* Removes inner padding that is displayed in S5, Chrome on OS X
+*/
+
+input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+
+/*
+* Removes search cancel button in S5, Chrome on OS X
+*/
+
+input[type="search"]::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+}
+
+/*
+* Removes inner padding and border in FF3+
+* www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/
+*/
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+/*
+* 1. Removes default vertical scrollbar in IE6/7/8/9
+* 2. Improves readability and alignment in all browsers
+*/
+
+textarea {
+    overflow: auto; /* 1 */
+    vertical-align: top; /* 2 */
+}
+
+
+/* =============================================================================
+Tables
+========================================================================== */
+
+/*
+* Remove most spacing between table cells
+*/
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+* {
+  margin: 0;
+  padding: 0;
+
+  font-family: Georgia, Palatino, Times, 'Times New Roman', sans-serif;
+}
+
+body {
+  background: #f2f1ff;
+  color: #2d2b61;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #af0000;
+  
+}
+
+a:hover {
+  //color: #f90;
+  color: #1755a0;
+}
+
+#container {
+	width: 940px;
+	margin: auto;
+	padding-bottom: 1.4em;
+}
+
+#main {
+  position: relative;
+  float: left;
+  width: 615px;
+  padding-top: 87px;
+  padding-right: 25px;
+  padding-bottom: 1.4em;
+  border-right: 1px dotted #498ded;  
+}
+
+#main h1 {
+  font-size: 40px;
+  font-weight: normal;
+
+  line-height: 40px;
+
+  letter-spacing: -1px;
+}
+
+#main p {
+  margin: 20px 0;
+  
+  font-size: 14px;
+  
+  line-height: 23px;
+}
+
+#main ul, #main ol {
+
+}
+
+#main li {
+  font-size: 15px;
+  
+  line-height: 20px;
+}
+
+#main ul li {
+  list-style-type: none;
+}
+
+#marquee {
+  height: 0px;
+  background-color: #498ded;
+  opacity: .8;
+}
+
+header {
+  height: 56px;
+  width: 100%;
+  min-width: 700px;
+  position: fixed;
+  border-bottom: 1px dotted #498ded;
+  background-color: #fff; 
+  box-shadow: 0px 3px 7px #444;
+  opacity: .98;
+  z-index: 10000;
+  
+}
+
+header nav ul {
+  float: right;
+  position: relative;
+	list-style-type: none;
+  text-align: right;
+	padding-top: 18px;
+	padding-bottom: 18px;
+}
+
+
+header nav ul li {
+  font-size: 1.1em;
+	display: inline;	
+	padding-right: 2.4em;
+}
+
+#logo {
+  //position: relative;
+  //padding-top: .23em;
+  padding-left: 1.4em;
+  float: left;
+  font-size: 1.1em;
+}
+#logo h1 {
+  font-weight: normal;
+  line-height: 1.45em;
+}
+footer {
+  background-color: #498ded;
+  opacity: .8;
+  width: 100%;
+  height: 340px;
+  border-top: 2px solid #1e6ac7;
+  margin-top: 1.2em;
+  clear: both;
+}
+
+footer li {
+  list-style-type: none;
+}
+
+#foot, head {
+  width: 940px;
+  margin: auto;
+}
+
+#foot {
+  padding-top: 1.4em;
+}
+
+#sidebar {
+  padding-top: 100px;
+  padding-left: 35px;
+  width:  260px;
+  float: left;
+  text-align: left;
+ 
+}
+
+#chunk {
+  position: fixed;
+  width: 260px;
+  height: 300px;
+  z-index: 10000;
+  background-color: #a4d1ff;
+  //border: 2px dashed #498ded;
+  opacity: .8;
+  -moz-appearancemoz-border-radius: 9px;
+  -moz-appearancewebkit-border-radius: 9px;
+  border-radius: 9px;
+  box-shadow: 2px 3px 7px #444;
+  
+}
+
+
+#sidebar h2 {
+  text-transform: uppercase;
+  font-size: 13px;
+  color: #333;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  margin: 20px 0;
+}
+
+#sidebar li {
+  font-size: 14px;
+  line-height: 20px;
+}
+;T;	@;
+@I"/about/;T{;{	;I"<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Awesome About Page</title>
+    <link rel="stylesheet" type="text/css" href="/style.css" media="screen">
+    <meta name="generator" content="nanoc 3.2.4">
+  </head>
+  <body>
+  
+      
+  		<header>
+  		 <div id="marquee">	
+  		  <div id="logo"><h1><a href="/">sqips rs</a></h1></div>
+  			<nav id="head">			
+  				<ul>
+  					<li><a href="/">Home</a></li>
+            <li><a href="/about/">About</a></li>		
+            <li><a href="/resources/">Portfolio</a></li>
+            <li><a href="/resources/">Contact</a></li>            
+            <li><a href="https://twitter.com/#!/sqips">Twitter</a></li>
+  				</ul>
+  			</nav>
+  		 </div>
+  		</header>
+  	<div id="container">
+  		<div id="main">
+  			<h1>About</h1>
+
+<p>It is true that there are any number of things I could write here, but this is what it's all about. Still, at times like these I wonder what would happen if I were to write a bit more...</p>	
+  
+  			
+  			<p>This page was authored by Ravinder Sahni.</p>
+  			
+  
+  		</div>
+  		<div id="sidebar">
+  		  <section id="chunk">
+      	</section>
+  		  		
+  		</div>
+  	</div>
+  		<footer>
+  	    <nav id="foot"><ul><li>1</li><li>3</li><li>5</li></ul></nav>
+  		</footer>
+  
+  </body>
+</html>
+;T;	I"Ñ<h1>About</h1>
+
+<p>It is true that there are any number of things I could write here, but this is what it's all about. Still, at times like these I wonder what would happen if I were to write a bit more...</p>;T;
+I"Ñ<h1>About</h1>
+
+<p>It is true that there are any number of things I could write here, but this is what it's all about. Still, at times like these I wonder what would happen if I were to write a bit more...</p>;T;@I"/resources/;T{;{	;I"
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Recommended Resources</title>
+    <link rel="stylesheet" type="text/css" href="/style.css" media="screen">
+    <meta name="generator" content="nanoc 3.2.4">
+  </head>
+  <body>
+  
+      
+  		<header>
+  		 <div id="marquee">	
+  		  <div id="logo"><h1><a href="/">sqips rs</a></h1></div>
+  			<nav id="head">			
+  				<ul>
+  					<li><a href="/">Home</a></li>
+            <li><a href="/about/">About</a></li>		
+            <li><a href="/resources/">Portfolio</a></li>
+            <li><a href="/resources/">Contact</a></li>            
+            <li><a href="https://twitter.com/#!/sqips">Twitter</a></li>
+  				</ul>
+  			</nav>
+  		 </div>
+  		</header>
+  	<div id="container">
+  		<div id="main">
+  			<article id="resources">
+	<h1>Recommended Resources</h1>
+	<p>Technologies I find exciting or indispensable</p>
+	<ul>
+		<li>something</li>
+		<li>something else</li>
+		<li>yet another thing</li>
+		<li>really?</li>
+		<li>yup</li>
+		<li>oh, come on!</li>
+	</ul>
+</article>	
+  
+  			
+  
+  		</div>
+  		<div id="sidebar">
+  		  <section id="chunk">
+      	</section>
+  		  		
+  		</div>
+  	</div>
+  		<footer>
+  	    <nav id="foot"><ul><li>1</li><li>3</li><li>5</li></ul></nav>
+  		</footer>
+  
+  </body>
+</html>
+;T;	I"<article id="resources">
+	<h1>Recommended Resources</h1>
+	<p>Technologies I find exciting or indispensable</p>
+	<ul>
+		<li>something</li>
+		<li>something else</li>
+		<li>yet another thing</li>
+		<li>really?</li>
+		<li>yup</li>
+		<li>oh, come on!</li>
+	</ul>
+</article>;T;
+I"<article id="resources">
+	<h1>Recommended Resources</h1>
+	<p>Technologies I find exciting or indispensable</p>
+	<ul>
+		<li>something</li>
+		<li>something else</li>
+		<li>yet another thing</li>
+		<li>really?</li>
+		<li>yup</li>
+		<li>oh, come on!</li>
+	</ul>
+</article>;T;@:versioni
