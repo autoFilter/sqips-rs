@@ -1,4 +1,4 @@
-{:	data{	I"/:ET{:default{	:	lastI"å	<!DOCTYPE HTML>
+{:	data{	I"/:ET{:default{	:	lastI"ö	<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -16,7 +16,7 @@
   				<ul>
   					<li><a href="/">Home</a></li>
             <li><a href="/about/">About</a></li>		
-            <li><a href="/resources/">Portfolio</a></li>
+            <li><a href="https://github.com/autoFilter">Projects</a></li>
             <li><a href="/resources/">Contact</a></li>            
             <li><a href="https://twitter.com/#!/sqips">Twitter</a></li>
   				</ul>
@@ -845,7 +845,7 @@ footer li {
   line-height: 20px;
 }
 ;T;	@;
-@I"/about/;T{;{	;I"<!DOCTYPE HTML>
+@I"/about/;T{;{	;I"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -863,7 +863,7 @@ footer li {
   				<ul>
   					<li><a href="/">Home</a></li>
             <li><a href="/about/">About</a></li>		
-            <li><a href="/resources/">Portfolio</a></li>
+            <li><a href="https://github.com/autoFilter">Projects</a></li>
             <li><a href="/resources/">Contact</a></li>            
             <li><a href="https://twitter.com/#!/sqips">Twitter</a></li>
   				</ul>
@@ -898,8 +898,7 @@ footer li {
 <p>It is true that there are any number of things I could write here, but this is what it's all about. Still, at times like these I wonder what would happen if I were to write a bit more...</p>;T;
 I"Ñ<h1>About</h1>
 
-<p>It is true that there are any number of things I could write here, but this is what it's all about. Still, at times like these I wonder what would happen if I were to write a bit more...</p>;T;@I"/resources/;T{;{	;I"
-<!DOCTYPE HTML>
+<p>It is true that there are any number of things I could write here, but this is what it's all about. Still, at times like these I wonder what would happen if I were to write a bit more...</p>;T;@I"/resources/;T{;{	;I"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -917,7 +916,7 @@ I"Ñ<h1>About</h1>
   				<ul>
   					<li><a href="/">Home</a></li>
             <li><a href="/about/">About</a></li>		
-            <li><a href="/resources/">Portfolio</a></li>
+            <li><a href="https://github.com/autoFilter">Projects</a></li>
             <li><a href="/resources/">Contact</a></li>            
             <li><a href="https://twitter.com/#!/sqips">Twitter</a></li>
   				</ul>
